@@ -379,7 +379,7 @@ p {
 }
 
 .footer-bottom {
-	margin: 20px 0 0 0;
+  margin: 20px 0 0 0;
   padding: 10px 15px;
   color: #eeeeee;
   background-color: rgba(0, 0, 0, 0.5);
@@ -389,6 +389,6 @@ p {
 }
 
 .footer-bottom h3 {
-	max-width: 300px;
+  max-width: 300px;
   margin: 0 auto;
 }
